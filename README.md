@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Subham Sigdel</h1>
 
 # 💫 About Me:
-I am a second-year computer science student at the University of Texas At Dallas , passionate about coding, machine learning, and building fullstack applications.
+I am a third-year computer science student at the University of Texas At Dallas , passionate about coding, machine learning, and building fullstack applications.
 
 ## 🚀 What I'm Up To
 
