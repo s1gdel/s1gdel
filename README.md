@@ -6,7 +6,7 @@ I am a third-year computer science student at the University of Texas At Dallas 
 ## 🚀 What I'm Up To
 
 - 💻 Building Full Stack Websites/Applications
-- 🗺️ Exploring AI/ML
+- 📊 Researching and developing algorithmic trading strategies using market data and quantitative methods
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssigdel5/)
