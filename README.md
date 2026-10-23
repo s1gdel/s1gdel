@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Subham Sigdel</h1>
+<h1 align="center">Hi 👋 I'm Subom Sigdel</h1>
 
 # 💫 About Me:
 I am a fourth-year Computer Science student at the University of Texas at Dallas, graduating in December 2026, and an incoming M.S. in Computer Science student at Georgia Tech for Spring 2027. I'm passionate about software engineering, building full-stack applications, and quantitative finance.
